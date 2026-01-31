@@ -1,0 +1,2 @@
+# LiteGPT
+Minimal Android wrapper for ChatGPT with no tracking and no unnecessary permissions.
