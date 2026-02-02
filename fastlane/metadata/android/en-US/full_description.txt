@@ -1,1 +1,8 @@
+Lite-GPT is a minimal wrapper that opens ChatGPT using Custom Tabs with a WebView fallback.
+
+Features:
+- Minimal permissions
+- No analytics or tracking SDKs
+- Uses the system browser for login/session handling
+- Optional fallback mode when Custom Tabs are unavailable
 
